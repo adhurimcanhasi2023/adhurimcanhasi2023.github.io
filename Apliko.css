@@ -94,6 +94,7 @@
 .ac-button:hover {
   background: #4837ff;
   transition: all 0.3s ease;
+  color: #fff;
 }
 
 .ac-navbar__links:hover {
